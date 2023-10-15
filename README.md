@@ -1,7 +1,7 @@
 
 # StockPulse
 
-An inventory management system using Django and Django Rest Framework (DRF).
+An inventory management system built using Django and Django Rest Framework (DRF).
 
 ## Tech Stack
 
